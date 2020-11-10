@@ -1,0 +1,12 @@
+{
+  "hosting": {
+  "site": "recipe-super88",
+  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
